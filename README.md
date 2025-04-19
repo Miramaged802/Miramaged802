@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mira Maged</h1>
 <h3 align="center">Frontend Web Developer | React Enthusiast</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miramaged802/Miramaged802/main/header-image.svg" alt="header image" />
-</p>
 
 <p align="center">
   <a href="mailto:miramaged345@gmail.com"><img src="https://img.shields.io/badge/Email-miramaged345%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
