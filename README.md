@@ -6,7 +6,7 @@
   <a href="mailto:miramaged345@gmail.com"><img src="https://img.shields.io/badge/Email-miramaged345%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://linkedin.com/in/mira-maged555"><img src="https://img.shields.io/badge/LinkedIn-mira--maged555-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/Miramaged802"><img src="https://img.shields.io/badge/GitHub-Miramaged802-blue?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="tel:01019473537"><img src="https://img.shields.io/badge/Phone-01019473537-blue?style=for-the-badge&logo=whatsapp" alt="Phone" /></a>
+ 
 </p>
 
 <p align="center">
